@@ -1,2 +1,1 @@
-# Logo
-save_logo
+[Accueil](index.html)
